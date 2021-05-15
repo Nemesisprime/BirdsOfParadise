@@ -1,6 +1,6 @@
-# Birds of Paradise, Dandy Style
+# Birds of Paradise for Xcode, Dandy Style
 
-Just a custom variant of Birds of Paradise :) 
+Just a slighty modified variant of Birds of Paradise for Xcode to help make some text clearer :) 
 
 
 
